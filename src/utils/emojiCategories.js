@@ -12,21 +12,21 @@ export const DEFAULT_CATEGORIES = [
   {
     name: 'Sports',
     emojis: ['⚽️', '🏀', '🏈', '⚾️', '🎾', '🏐', '🏉', '🎱'],
-    color: 'blue'
+    color: 'purple'
   },
   {
     name: 'Travel',
     emojis: ['✈️', '🚀', '🚗', '🚕', '🚌', '🚎', '🏖️', '🗿'],
-    color: 'green'
+    color: 'pink'
   },
   {
     name: 'Faces',
     emojis: ['😀', '😁', '😂', '🤣', '😍', '🥰', '😎', '🤩'],
-    color: 'yellow'
+    color: 'purple'
   },
   {
     name: 'Nature',
     emojis: ['🌸', '🌹', '🌺', '🌻', '🌼', '🌷', '🌱', '🌲'],
-    color: 'emerald'
+    color: 'pink'
   }
 ];
