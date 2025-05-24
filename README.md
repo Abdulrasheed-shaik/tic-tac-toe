@@ -21,8 +21,8 @@ A fun, animated twist on the classic Tic Tac Toe game, built with React and Vite
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Abdulrasheed-shaik/tic_tac_toe.git
-   cd Tic_tac_toe
+   git clone https://github.com/Abdulrasheed-shaik/tic-tac-toe.git
+   cd tic-tac-toe
    ```
 
 2. Install dependencies:

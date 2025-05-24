@@ -3,7 +3,7 @@ import { Info } from "lucide-react";
 import HelpModal from "./components/HelpModal";
 import StartScreen from "./components/StartScreen";
 import Game from "./components/Game";
-import Starfield from "./components/StarField";
+import Starfield from "./components/Starfield";
 
 function App() {
   const [showHelp, setShowHelp] = useState(false);
